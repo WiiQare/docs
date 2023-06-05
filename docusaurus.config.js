@@ -60,7 +60,7 @@ const config = {
         title: "WiiQare Remittance",
         logo: {
           alt: "WiiQare Remittance Logo",
-          src: "img/logo.svg",
+          src: "img/wiiqare.png",
         },
         items: [
           {
