@@ -1,0 +1,9 @@
+{
+    "label": "Hospital Web Application",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "This Web Application is for a hospital, for receiving patient with their pass health and scan that."
+    }
+  }
+  
